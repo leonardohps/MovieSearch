@@ -1,0 +1,4 @@
+#Fri Mar 20 15:53:31 BRT 2020
+base.0=/home/leonardo/dev/github/MovieSearch/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

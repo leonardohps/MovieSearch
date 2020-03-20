@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0d2db47d9b0f64827208c855f9bdb5ca/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7a2d1bd45ef254b3b8bd1424e5b6d0d9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/leonardo/.gradle/caches/transforms-2/files-2.1/bc0a9dbfe3bd8810a9a6378632000e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/29c49fae8b2d10478ec03af36125e598/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/791806aa8686dfe31761485fff3459ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/69a1d75b583cf22d0d1d97a3ce8b8b8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/9887bb6ff278fb0221f9b6f8dadaab10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/c85e4cabb5993d2286847d4abe6a7ef5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/1ceb39f0088d0efddb699558e31ff27c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/239b8913a9ae9970e62d037b451ef259/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/30638dec7768b11aa2b5140e80dea3d3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/83148c2190e6d0e26b57ff68dffa1cb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/77bf26c88082fb64538c9d3e81133cb2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/407bc43e789457473bb947e10280dde5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/cd7a3ff6d893a0bf99012a85fb5ecb15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/3edc95bae301aaa096e861bdf42fc420/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0648725c3b44df8bba57e4f7521f823e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/d0cbcab69fdf5daea74e13b23e3f5955/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/29d319bc629248c990e1bf5ca2be13fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/b629ec8820c6691fe01c080db51756cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/136767b20c586b2c3091b5cff0c2a2a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/db4ae29addd6399bbec9144061d49db4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/3091deff233aee7d8bc27130d1942a1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/fd477e68cd96b6c92ae3d08764537e23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/45ebc04a056f5f0ebe7e963bffacac35/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/22ec6da9e7f9794cca6c2261ef8c1cf1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/1262b37e4a181c514fac6fcaae92fbfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/cbbd9b3b6e853b707ba96960e7942fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/c88792951d9a390e9e820d85bccb5b0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/b7783e5ca25cbccae7138617d664955d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/dc3eb37e30a2f750fb1860ca24e29626/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/02637ed389a0815568ea618c6b5e591b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/4f3b5612c9dd9134a825466135480f45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/94e72e7bfa9733d82a639ac4e57d56c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7ed566b21cc6263b398dc46b7c236d43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7715aa2594f4f65c8fe196b3b1536fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/6c3fd6349b1ed3f7db270de34c257c7c/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0d2db47d9b0f64827208c855f9bdb5ca/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0d2db47d9b0f64827208c855f9bdb5ca/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/30638dec7768b11aa2b5140e80dea3d3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/30638dec7768b11aa2b5140e80dea3d3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/45ebc04a056f5f0ebe7e963bffacac35/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/45ebc04a056f5f0ebe7e963bffacac35/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/22ec6da9e7f9794cca6c2261ef8c1cf1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/22ec6da9e7f9794cca6c2261ef8c1cf1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/45ebc04a056f5f0ebe7e963bffacac35/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.moviesearch.MainActivity
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0d2db47d9b0f64827208c855f9bdb5ca/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0d2db47d9b0f64827208c855f9bdb5ca/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7a2d1bd45ef254b3b8bd1424e5b6d0d9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7a2d1bd45ef254b3b8bd1424e5b6d0d9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/leonardo/.gradle/caches/transforms-2/files-2.1/bc0a9dbfe3bd8810a9a6378632000e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/leonardo/.gradle/caches/transforms-2/files-2.1/bc0a9dbfe3bd8810a9a6378632000e6f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/29c49fae8b2d10478ec03af36125e598/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/29c49fae8b2d10478ec03af36125e598/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/791806aa8686dfe31761485fff3459ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/791806aa8686dfe31761485fff3459ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/69a1d75b583cf22d0d1d97a3ce8b8b8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/69a1d75b583cf22d0d1d97a3ce8b8b8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/9887bb6ff278fb0221f9b6f8dadaab10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/9887bb6ff278fb0221f9b6f8dadaab10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/c85e4cabb5993d2286847d4abe6a7ef5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/c85e4cabb5993d2286847d4abe6a7ef5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/1ceb39f0088d0efddb699558e31ff27c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/1ceb39f0088d0efddb699558e31ff27c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/239b8913a9ae9970e62d037b451ef259/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/239b8913a9ae9970e62d037b451ef259/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/30638dec7768b11aa2b5140e80dea3d3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/30638dec7768b11aa2b5140e80dea3d3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/83148c2190e6d0e26b57ff68dffa1cb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/83148c2190e6d0e26b57ff68dffa1cb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/77bf26c88082fb64538c9d3e81133cb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/77bf26c88082fb64538c9d3e81133cb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/407bc43e789457473bb947e10280dde5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/407bc43e789457473bb947e10280dde5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/cd7a3ff6d893a0bf99012a85fb5ecb15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/cd7a3ff6d893a0bf99012a85fb5ecb15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/3edc95bae301aaa096e861bdf42fc420/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/3edc95bae301aaa096e861bdf42fc420/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0648725c3b44df8bba57e4f7521f823e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/0648725c3b44df8bba57e4f7521f823e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/d0cbcab69fdf5daea74e13b23e3f5955/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/d0cbcab69fdf5daea74e13b23e3f5955/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/29d319bc629248c990e1bf5ca2be13fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/29d319bc629248c990e1bf5ca2be13fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/b629ec8820c6691fe01c080db51756cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/b629ec8820c6691fe01c080db51756cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/136767b20c586b2c3091b5cff0c2a2a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/136767b20c586b2c3091b5cff0c2a2a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/db4ae29addd6399bbec9144061d49db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/db4ae29addd6399bbec9144061d49db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/3091deff233aee7d8bc27130d1942a1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/3091deff233aee7d8bc27130d1942a1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/fd477e68cd96b6c92ae3d08764537e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/fd477e68cd96b6c92ae3d08764537e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/45ebc04a056f5f0ebe7e963bffacac35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/leonardo/.gradle/caches/transforms-2/files-2.1/45ebc04a056f5f0ebe7e963bffacac35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/22ec6da9e7f9794cca6c2261ef8c1cf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/22ec6da9e7f9794cca6c2261ef8c1cf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/1262b37e4a181c514fac6fcaae92fbfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/1262b37e4a181c514fac6fcaae92fbfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/cbbd9b3b6e853b707ba96960e7942fc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/cbbd9b3b6e853b707ba96960e7942fc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/c88792951d9a390e9e820d85bccb5b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/c88792951d9a390e9e820d85bccb5b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/b7783e5ca25cbccae7138617d664955d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/b7783e5ca25cbccae7138617d664955d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/dc3eb37e30a2f750fb1860ca24e29626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/dc3eb37e30a2f750fb1860ca24e29626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/02637ed389a0815568ea618c6b5e591b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/02637ed389a0815568ea618c6b5e591b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/4f3b5612c9dd9134a825466135480f45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/4f3b5612c9dd9134a825466135480f45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/94e72e7bfa9733d82a639ac4e57d56c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/94e72e7bfa9733d82a639ac4e57d56c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7ed566b21cc6263b398dc46b7c236d43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7ed566b21cc6263b398dc46b7c236d43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7715aa2594f4f65c8fe196b3b1536fc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/7715aa2594f4f65c8fe196b3b1536fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/6c3fd6349b1ed3f7db270de34c257c7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/leonardo/.gradle/caches/transforms-2/files-2.1/6c3fd6349b1ed3f7db270de34c257c7c/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/leonardo/dev/github/MovieSearch/android/app/src/debug/AndroidManifest.xml:5:22-75
